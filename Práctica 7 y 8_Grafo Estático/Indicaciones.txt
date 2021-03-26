@@ -1,0 +1,5 @@
+Programa que gestione TDA's de tipo grafo estático, tolera PD, NPND, PND, NPD. Operaciones Crud.
+
+----------------------------------------------------------------------------
+
+Implementar recorridos de anchura y de profundidad
